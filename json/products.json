@@ -1,0 +1,44 @@
+{
+    "data":[
+        {
+            "productId" : 1,
+            "productName":"Lush Green Polo T-shirt",
+            "price" : 10,
+            "image" : "1.jpeg",
+            "description":"A soft, breathable shirt designed for all-day comfort and timeless style.",
+            "companyName":"Puma"
+        },
+        {
+            "productId" : 2,
+            "productName":"EYEBOGLER Polo Tshirts for Men",
+            "price" : 10,
+            "image" : "2.jpeg",
+            "description":"Tailored to perfection, this shirt offers a sleek look and a flattering fit",
+            "companyName":"Adidas"
+        },
+        {
+            "productId" : 3,
+            "productName":"Doodle Black Oversized Back",
+            "price" : 10,
+            "image" : "3.jpeg",
+            "description":"Made from high-quality materials, this shirt with elegance.",
+            "companyName":"Nike"
+        },
+        {
+            "productId" : 4,
+            "productName":"TOM HIDDLE Graphic Print",
+            "price" : 10,
+            "image" : "4.jpeg",
+            "description":"Perfect for work or casual outings, this shirt is a wardrobe essential.",
+            "companyName":"Polo"
+        },
+        {
+            "productId" : 5,
+            "productName":"Lymio Men's Regular Fit T-Shirt",
+            "price" : 10,
+            "image" : "5.jpeg",
+            "description":"Elevate your look with this stylish shirt, ideal for any occasion.",
+            "companyName":"H&M"
+        }
+    ]
+}
