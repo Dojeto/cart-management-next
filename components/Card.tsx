@@ -14,7 +14,7 @@ export const CardComponent: React.FC<CardData> = (data: CardData) => {
   const state = useSelector((state: RootState) => state.cart.data)
   const dispatch = useDispatch()
   return (
-    <Card className="w-full max-w-xs rounded-xl border width">
+    <Card className="w-full max-w-xs rounded-xl border">
       <div className="grid gap-4 p-4">
         <div className="aspect-[4/5] w-full overflow-hidden rounded-xl">
           <img
