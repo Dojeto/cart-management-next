@@ -8,7 +8,7 @@ export const Quanitity: React.FC<{value:number,id:number}> = ({value,id})=>{
     const dispatch = useDispatch()
     return(
         <>
-            <div className=" flex justify-stretch gap-x-5 border">
+            <div className=" flex justify-stretch gap-x-5">
                 <button onClick={()=>{
                     dispatch(changeQuantity({
                         id:id
