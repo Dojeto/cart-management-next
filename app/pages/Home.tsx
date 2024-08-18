@@ -4,7 +4,7 @@ import data from "@/json/products.json"
 export default function HomePage(){
     return(
         <div className=" flex justify-center">
-            <div className="grid md:m-10 md:grid-cols-4 md:gap-y-11 sm:grid-cols-2 grid-cols-1">
+            <div className="grid md:m-10 md:grid-cols-4 md:gap-y-11 md:w-full sm:grid-cols-2 grid-cols-1">
                 {
                     data.data.map((val,i)=>{
                         return(
